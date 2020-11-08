@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-11-08T18:07:06.497223+05:30"
+    description: A Helm chart for Kubernetes
+    digest: bed936395e8535dd23b8660b6915bece78db04319b7cbb9de6f498eba9571bd3
+    name: webapp
+    type: application
+    urls:
+    - https://joon88.github.io/sajid-helm-charts/webapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-11-08T18:07:06.496605+05:30"
